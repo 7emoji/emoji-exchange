@@ -156,7 +156,7 @@ export default function Header() {
               <img style={{ height: 32 }} src={isDark ? LogoDark : Logo} alt="logo" />
             </UniIcon>
             <StyledText>
-              SushiSwap <MasterChefText>Exchange</MasterChefText>
+              EmojiSwap <MasterChefText>Exchange</MasterChefText>
             </StyledText>
           </Title>
         </HeaderElement>
